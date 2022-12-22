@@ -1,0 +1,52 @@
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.config
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\DesignLogin.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csprojAssemblyReference.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\MainWindow.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\App.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.lref
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\MainWindow.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.g.resources
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.Properties.Resources.resources
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.GenerateResource.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.dll
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\App.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CopyComplete
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormError.g.cs
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.baml
+C:\Users\RYZEN5\source\repos\DesignLogin\DesignLogin\obj\Debug\FormError.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe.config
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.exe
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\DesignLogin.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.dll
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignColors.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csprojAssemblyReference.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormError.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\MainWindow.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\App.g.cs
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin_MarkupCompile.lref
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\App.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormBienvenida.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\FormError.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\MainWindow.baml
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.g.resources
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.Properties.Resources.resources
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.GenerateResource.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CoreCompileInputs.cache
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.csproj.CopyComplete
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.exe
+D:\2019 - Antonio Aburto Cortez\FiveCod Software - Visual Studio\DesignLogin\DesignLogin\obj\Debug\DesignLogin.pdb
